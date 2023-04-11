@@ -1,0 +1,391 @@
+.dropbutton {
+  color: #fff;
+  font-size: 18px;
+  background: rgba(0,0,0,0);
+  border: none;
+  cursor: pointer;
+  z-index: 1;
+}
+
+
+.dropbutton:hover, .dropbutton:focus {
+  background: rgba(0,0,0,0);
+  color: #330867;
+}
+
+
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: #E6E6FA;
+  min-width: 250px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  width: 281px;
+}
+
+
+.dropdown-content2 a {
+  text-align: left !important;
+  color: black !important;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border-top: black;
+  font-size: 16px;
+}
+
+
+.dropdown-content2 a:hover {background-color: #fff}
+
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+}
+
+.dropbutton1 {
+  color: #fff;
+  font-size: 18px;
+  background: rgba(0,0,0,0);
+  border: none;
+  cursor: pointer;
+  z-index: 1;
+}
+
+
+.dropbutton1:hover, .dropbutton1:focus {
+  background: rgba(0,0,0,0);
+  color: #330867;
+}
+
+
+.dropdown3 {
+  position: relative;
+  display: inline-block;
+}
+
+
+.dropdown-content3 {
+  display: none;
+  position: absolute;
+  background-color: #E6E6FA;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  width: 244px;
+}
+
+
+.dropdown-content3 a {
+  text-align: left !important;
+  color: black !important;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border-top: black;
+  font-size: 16px;
+}
+
+
+.dropdown-content3 a:hover {background-color: #fff}
+
+.dropdown3:hover .dropdown-content3 {
+  display: block;
+}
+
+.dropbutton2 {
+  color: #fff;
+  font-size: 18px;
+  background: rgba(0,0,0,0);
+  border: none;
+  cursor: pointer;
+  z-index: 1;
+}
+
+
+.dropbutton2:hover, .dropbutton2:focus {
+  background: rgba(0,0,0,0);
+  color: #330867;
+}
+
+
+.dropdown4 {
+  position: relative;
+  display: inline-block;
+}
+
+
+.dropdown-content4 {
+  display: none;
+  position: absolute;
+  background-color: #E6E6FA;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  width: 288px;
+}
+
+
+.dropdown-content4 a {
+  text-align: left !important;
+  color: black !important;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border-top: black;
+  font-size: 16px;
+}
+
+
+.dropdown-content4 a:hover {background-color: #fff}
+
+.dropdown4:hover .dropdown-content4 {
+  display: block;
+}
+
+.dropbutton3 {
+  color: #fff;
+  font-size: 18px;
+  background: rgba(0,0,0,0);
+  border: none;
+  cursor: pointer;
+  z-index: 1;
+}
+
+
+.dropbutton3:hover, .dropbutton3:focus {
+  background: rgba(0,0,0,0);
+  color: #330867;
+}
+
+
+.dropdown5 {
+  position: relative;
+  display: inline-block;
+}
+
+
+.dropdown-content5 {
+  display: none;
+  position: absolute;
+  background-color: #E6E6FA;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  width: 288px;
+}
+
+
+.dropdown-content5 a {
+  text-align: left !important;
+  color: black !important;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border-top: black;
+  font-size: 16px;
+}
+
+
+.dropdown-content5 a:hover {background-color: #fff}
+
+.dropdown5:hover .dropdown-content5 {
+  display: block;
+}
+
+.dropbutton4 {
+  color: #fff;
+  font-size: 18px;
+  background: rgba(0,0,0,0);
+  border: none;
+  cursor: pointer;
+  z-index: 1;
+}
+
+
+.dropbutton4:hover, .dropbutton4:focus {
+  background: rgba(0,0,0,0);
+  color: #330867;
+}
+
+
+.dropdown6 {
+  position: relative;
+  display: inline-block;
+}
+
+
+.dropdown-content6 {
+  display: none;
+  position: absolute;
+  background-color: #E6E6FA;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  width: 247px;
+}
+
+
+.dropdown-content6 a {
+  text-align: left !important;
+  color: black !important;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border-top: black;
+  font-size: 16px;
+}
+
+
+.dropdown-content6 a:hover {background-color: #fff}
+
+.dropdown6:hover .dropdown-content6 {
+  display: block;
+}
+
+.stickynav-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.overall {
+  background: radial-gradient(#fff,#E6E6FA);
+}
+
+td img {
+  width: 100px;
+}
+
+table th {
+  width: auto !important;
+
+}
+
+.table-container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1300px;
+}
+
+.content {
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 50px 100px;
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.srch {
+  margin-bottom: 40px;
+  margin-top: 20px !important;
+}
+
+.form-select-cari {
+  width: 200px;
+  margin-right: 15px;
+}
+
+.form-contol-cari {
+  width: 200px;
+  margin-right: 15px;
+}
+
+.btn-info {
+  color: white;
+  box-shadow: none;
+  padding: 8px 25px;
+  border : none;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #330867, #5f1782);
+  width: 180px;
+  margin-left: 15px;
+}
+
+.btn-info:hover {
+  color: white;
+}
+
+.baris3 {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  padding-top: 50px;
+  margin-bottom: -50px;
+}
+
+.breadcrumb-text {
+  font-size: 18px;
+}
+
+.breadcrumb-text a {
+  text-decoration: none;
+  color: #5f1782;
+}
+
+.pagination {
+  margin-top: 40px;
+}
+
+.corner-img img {
+  display: flex;
+  align-items: flex-end;
+  flex-basis: 30%;
+  z-index: -1;
+  position: relative;
+  margin-right: 0;
+  width: 90%;
+}
+
+.corner-img {
+  margin-top: -250px;
+  max-width: 2000px;
+  margin-bottom: -120px;
+}
+
+.profil img {
+  border: 5px solid #9370DB;
+  padding: 0px !important;
+  margin-bottom: 40px;
+}
+
+.profil-text {
+  margin-bottom: 40px;
+}
+
+.btn-success {
+  border-radius: 15px;
+}
+
+.btn-danger {
+  border-radius: 15px;
+}
+
+.baris4 {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  margin-bottom: 25px;
+}
+
+.tambah {
+  margin-right: 20px;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #30CFD0, #5f1782);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.form img {
+  width: 100px;
+}
+
+.sub-text {
+  font-size: 14px;
+}
+
+.form h4 {
+  margin-top: 35px;
+}
