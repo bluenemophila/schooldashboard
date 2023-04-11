@@ -5,4 +5,6 @@ This is a web based school dashboard my team submitted for our Information Syste
 - 3 level access (Admin, Teacher, and Student)
 - different login access for each level and landing page
 - input form stored in SQL database
+- cookie
+
 ~~One note though, I am bad at design so our interface look painfully bad.~~
